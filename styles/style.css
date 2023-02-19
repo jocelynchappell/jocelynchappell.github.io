@@ -1,6 +1,6 @@
 html {
   background-color: #00539f;
-  font-size: 10px; 
+  font-size: 16px; 
   font-family: 'Source Code Pro', monospace;
 }
 
@@ -28,7 +28,7 @@ img {
 
 p,
 li {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
   padding: 5px;
